@@ -1,7 +1,3 @@
-# Created by MegaFace Team
-# Please cite the our paper if you use our code, results, or dataset in a publication
-# http://megaface.cs.washington.edu/ 
-
 import argparse
 import os
 import sys
