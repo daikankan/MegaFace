@@ -1,2 +1,1 @@
-# MegaFace
 Test on MegaFace
