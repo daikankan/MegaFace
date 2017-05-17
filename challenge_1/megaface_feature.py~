@@ -15,8 +15,8 @@ MEGAFACE_PATH = os.path.join('..','..','MegaFace_dataset')
 MEGAFACE_CROP_PATH = os.path.join('..','..','MegaFace-crop')
 MEGAFACE_ALIGN_PATH = os.path.join('..','..','MegaFace-align')
 MEGAFACE_FEATURE_PATH = os.path.join('..','..','MegaFace-feature')
-MEGAFACE_LIST = os.path.join('..','templatelists','megaface_features_list.json_1000000_1')
-MEGAFACE_ALIGN_LIST = os.path.join('..','resultlists','megaface_aligned_list.json_1000000_1')
+MEGAFACE_LIST = os.path.join('..','templatelists','megaface_features_list.json_1000_1')
+MEGAFACE_ALIGN_LIST = os.path.join('..','resultlists','megaface_aligned_list.json_1000_1')
 
 BATCH_SIZE = 100 # for cnn forward
 
