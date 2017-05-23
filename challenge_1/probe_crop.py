@@ -8,7 +8,7 @@ import Image
 PROBE_CROP_PATH = os.path.join('..', '..', 'FaceScrub-crop')
 if not os.path.exists(PROBE_CROP_PATH):
   os.makedirs(PROBE_CROP_PATH)
-  
+
 PROBE_PATH = os.path.join('..','..','FaceScrub-full')
 PROBE_LIST = os.path.join('..','templatelists','facescrub_uncropped_features_list.json')
 ACTORS_TXT = os.path.join('..','..','facescrub_actors.txt')
